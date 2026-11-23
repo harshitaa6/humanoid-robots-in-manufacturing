@@ -1,0 +1,60 @@
+TY  - JOUR
+AU  - Ren, Jie
+AU  - Wu, Jiayang
+AU  - Yu, Longchang
+AU  - Wang, Yue
+AU  - Yang, Zhou
+AU  - Yu, Zhihao
+AU  - Sheng, Fengwei
+AU  - Liu, Fangtao
+AU  - Liu, Hongshuai
+AU  - Zhu, Kefu
+AU  - Wang, Lei
+AU  - Xu, Guangyuan
+AU  - He, Zhicheng
+AU  - Wang, Qiang
+AU  - Su, Yao
+DO  - 10.1109/TASE.2026.3737292
+PY  - 2026
+SP  - 17735
+EP  - 17752
+TI  - Toward Deployable Humanoid Mobile Manipulation in Industrial Manufacturing: System Integration and Part-Sorting Validation
+T2  - IEEE Transactions on Automation Science and Engineering
+UR  - https://ieeexplore.ieee.org/document/11707702/
+VL  - 23
+ER  -
+TY  - JOUR
+AB  - Wire and arc additive manufacturing (WAAM) has shown promise in recent years for producing large-scale parts with higher deposition rates than other additive processes. WAAM is often combined with subtractive machining to form a hybrid manufacturing process. This hybrid process can be realized by retrofitting computer numerical control (CNC) machines with deposition heads, adding spindles and deposition heads to robots, or developing part localization methods to transfer parts from an additive cell to a CNC machine. Here, a novel, robot-CNC hybrid configuration is introduced where a maneuverable robot is placed in front of a CNC machine to deposit material within the machine envelop. This method removes the need for part localization and the extensive machine modifications required for retrofitting; however, the problem of robot localization is also added. In this work, the effects of error in vision-based, contactless robot localization on machining parameters in a robot-machine hybrid process were studied. Performance was characterized on an implementation of this system using classical computer vision techniques. In addition, machining simulations were conducted to evaluate the effects of image-induced error on chip thickness, material removal rate, and machining allowance. Initial tests show that computer vision could adequately locate a robot for the hybrid WAAM process within.5 mm.
+AU  - Goodwin, Jesse
+AU  - Saldaña, Christopher
+DO  - 10.1007/s00170-023-11009-9
+IS  - 1-2
+PY  - 2023
+TI  - Vision-based localization for cooperative robot-CNC hybrid manufacturing
+T2  - International Journal of Advanced Manufacturing Technology
+VL  - 126
+ER  -
+TY  - JOUR
+AB  - For humanoid robots to become effective collaborators in industrial environments, the ability to perform dexterous manipulation through a human-like sense of touch is paramount. However, many existing tactile sensors are limited by high costs, complex fabrication, or an inability to measure multi-axis forces, particularly the shear forces crucial for stable grasping and slip detection. This paper presents the complete design, characterization, and integration of a novel, low-cost multi-axial tactile sensor based on a multi-material architecture combining rigid, flexible, and soft polymers. The sensor's design effectively decouples normal and shear forces into three distinct channels, providing a differential, 180-degree out-of-phase output for unambiguous directional shear sensing. Experimental characterization demonstrated high performance, including a normal force sensitivity of 0.467 V/N and shear sensitivities exceeding 1.1 V/N. This resulted in an excellent force resolution capable of detecting changes as small as 3.79 gram-force (0.037 N), with a dynamic operational bandwidth of up to 150 Hz. The sensor was successfully integrated into the fingertips of the ARAtronica humanoid robot, enabling it to perform complex industrial tasks, including the haptic-guided operation of a CNC machine and a lathe, which would be unreliable without tactile feedback. The results validate our sensor as a practical and effective solution for enabling haptic dexterity, bringing humanoid robots a crucial step closer to becoming safe and capable collaborators in the factories of the future.
+AU  - Ali, Amir R.
+AU  - Selim, Miral Y.
+DO  - 10.1016/j.rineng.2025.108494
+PY  - 2026
+TI  - Design and integration of a multi-axial tactile sensor for dexterous manipulation by humanoid robots for industrial applications
+T2  - Results in Engineering
+VL  - 29
+ER  -
+TY  - GEN
+AB  - This paper provides an overview of collaborative robotics towards manufacturing applications. Over the last decade, the market has seen the introduction of a new category of robots-collaborative robots (or "cobots")-designed to physically interact with humans in a shared environment, without the typical barriers or protective cages used in traditional robotics systems. Their potential is undisputed, especially regarding their flexible ability to make simple, quick, and cheap layout changes; however, it is necessary to have adequate knowledge of their correct uses and characteristics to obtain the advantages of this form of robotics, which can be a barrier for industry uptake. The paper starts with an introduction of human-robot collaboration, presenting the related standards and modes of operation. An extensive literature review of works published in this area is undertaken, with particular attention to the main industrial cases of application. The paper concludes with an analysis of the future trends in human-robot collaboration as determined by the authors.
+AU  - Matheson, Eloise
+AU  - Minto, Riccardo
+AU  - Zampieri, Emanuele G.G.
+AU  - Faccio, Maurizio
+AU  - Rosati, Giulio
+DO  - 10.3390/robotics8040100
+IS  - 4
+PY  - 2019
+TI  - Human-robot collaboration in manufacturing applications: A review
+T2  - Robotics
+VL  - 8
+ER  -

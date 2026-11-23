@@ -1,0 +1,179 @@
+TY  - CONF
+AB  - Technological evolution in the field of robotics is emerging with major breakthroughs in recent years. This was especially fostered by revolutionary new software applications leading to humanoid robots. Humanoids are being envisioned for manufacturing applications to form human-robot teams. But their implication in the manufacturing practices especially for industrial safety standards and lean manufacturing practices have been minimally addressed. Humanoids will also be competing with conventional robotic arms and effective methods to assess their return on investment are needed. To study the next generation of industrial automation, we used the case context of Tesla's humanoid robot. The company has recently unveiled its project on an intelligent humanoid robot named 'Optimus' to achieve an increased level of manufacturing automation. This article proposes a framework to integrate humanoids for manufacturing automation and also presents the significance of safety standards of human-robot collaboration. A case of lean assembly cell for the manufacturing of an open-source medical ventilator was used for human-humanoid automation. Simulation results indicate that humanoids can increase the level of manufacturing automation. Managerial and research implications are presented.
+AU  - Malik, Ali Ahmad
+AU  - Masood, Tariq
+AU  - Brem, Alexander
+DA  - 2024/3//
+DO  - 10.1145/3610978.3640765
+KW  - Assembly
+KW  - Automation
+KW  - Humanoid
+KW  - Lean
+KW  - Robots
+PB  - IEEE Computer Society
+PY  - 2024
+SN  - 9798400703232
+SP  - 20
+EP  - 27
+TI  - Intelligent Humanoid Robots in Manufacturing Addressing the Worker Shortage and Skill Gaps in Assembly Cells
+T2  - ACM/IEEE International Conference on Human-Robot Interaction
+ER  -
+TY  - JOUR
+AB  - This paper presents the usage of holonomic mobile humanoid manipulators to carry out autonomous tasks in industrial environments, according to the smart factory concept and the Industry 4.0 philosophy. The problem of transporting lengthy objects, taking into account mechanical limitations, the conditions for avoiding collisions, as well as the dexterity of the manipulator arms was considered. The primary problem was divided into three phases, leading to three different types of robotic tasks. In the proposed approach, the pseudoinverse Jacobian method at the acceleration level to solve each of the tasks was used. The redundant degrees of freedom were used to satisfy secondary objectives such as robot kinetic energy, the maximization of the manipulability measure, and the fulfillment mechanical and collision-avoidance limitations. A computer example involving a mobile humanoid manipulator, operating in an industrial environment, illustrated the effectiveness of the proposed method.
+AU  - Pajak, Iwona
+AU  - Pajak, Grzegorz
+DA  - 2021/7//
+DO  - 10.3390/app11136209
+IS  - 13
+KW  - Humanoid manipulator
+KW  - Mobile robot
+KW  - Motion planning
+KW  - Transportation task
+PB  - MDPI AG
+PY  - 2021
+TI  - Motion planning for a mobile humanoid manipulator working in an industrial environment
+T2  - Applied Sciences (Switzerland)
+VL  - 11
+ER  -
+TY  - CONF
+AU  - Malik, Ali Ahmad
+AU  - Masood, Tariq
+AU  - Brem, Alexander
+CY  - New York, NY, USA
+DA  - 2024/3//
+DO  - 10.1145/3610978.3640765
+PB  - ACM
+PY  - 2024
+SN  - 9798400703232
+SP  - 20
+EP  - 27
+TI  - Intelligent Humanoid Robots in Manufacturing
+T2  - Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction
+ER  -
+TY  - JOUR
+AU  - Chi, Peng
+AU  - Wang, Zhenmin
+AU  - Liao, Haipeng
+AU  - Li, Ting
+AU  - Wu, Xiangmiao
+AU  - Zhang, Qin
+DA  - 2025/1//
+DO  - 10.1016/j.measurement.2024.116065
+PY  - 2025
+SP  - 116065
+EP  - 116065
+TI  - Towards new-generation of intelligent welding manufacturing: A systematic review on 3D vision measurement and path planning of humanoid welding robots
+T2  - Measurement
+VL  - 242
+ER  -
+TY  - JOUR
+AB  - <p>Robotics and automation have significantly transformed Computer Numerical Control (CNC) machining operations, enhancing productivity, precision, and efficiency. Robots are employed to load and unload raw materials, workpieces, and finished parts onto CNC machines. They can efficiently handle heavy and bulky components, reducing the demand of manual labour and minimizing the risk of injuries. Robots can also be used in CNC machine tools to perform tasks such as automatic tool changing system, part inspection, and workpiece positioning. Automation technologies, including in-line inspection systems and Non-Destructive Testing (NDT) methods, can be integrated into CNC machining cells to enhance accuracy and reduce scrap and rework in machining operations. These systems collect real-time data on process parameters and machine tool performance to predict maintenance, optimize machining parameters, and improve overall efficiency. In the current study, applications of robotics and automation in the modification of CNC machine tools are reviewed and discussed. Different applications of robotics and automation in CNC machine tools, such as automated material handling, automatic tool changing, robotic work cells, adaptive machining, machine tending, quality inspection, data monitoring and analysis, and production line integration, are discussed. Thus, by analysing recent achievements in published papers, new ideas and concepts of future research works are suggested. As a result, accuracy as well as productivity in the process of part production can be enhanced by applying robotics and automation in CNC machining operations.</p>
+AU  - Soori, Mohsen
+AU  - Jough, Fooad Karimi Ghaleh
+AU  - Dastres, Roza
+AU  - Arezoo, Behrooz
+DA  - 2024/9//
+DO  - 10.2478/ama-2024-0048
+IS  - 3
+PY  - 2024
+SP  - 434
+EP  - 450
+TI  - Robotical Automation in CNC Machine Tools: A Review
+T2  - Acta Mechanica et Automatica
+VL  - 18
+ER  -
+TY  - JOUR
+AU  - Asif, Seemal
+AU  - Bueno, Mikel
+AU  - Ferreira, Pedro
+AU  - Anandan, Paul
+AU  - Zhang, Ze
+AU  - Yao, Yue
+AU  - Ragunathan, Gautham
+AU  - Tinkler, Lloyd
+AU  - Sotoodeh-Bahraini, Masoud
+AU  - Lohse, Niels
+AU  - Webb, Phil
+AU  - Hutabarat, Windo
+AU  - Tiwari, Ashutosh
+DA  - 2025/4//
+DO  - 10.1016/j.rcim.2024.102862
+PY  - 2025
+SP  - 102862
+EP  - 102862
+TI  - Rapid and automated configuration of robot manufacturing cells
+T2  - Robotics and Computer-Integrated Manufacturing
+VL  - 92
+ER  -
+TY  - GEN
+AB  - Industry 4.0 (I4.0) has been characterized by the increasing use of automation, artificial intelligence, and big data in manufacturing. It has brought different machines, tools, robots and devices together through integration with cyber-physical systems as well as Internet of Things and computer systems. This has dramatically improved efficiency, productivity, and flexibility of automated systems, but it has also raised concerns about the impact of automation on jobs, the ethical considerations and the future of work in general. Industry 5.0 (I5.0) is the next manufacturing paradigm evolution and builds on I4.0 with the addition of ‘people’, in which robots will be designed to work alongside humans in a safe and efficient manner. Human-robot collaboration (HRC) is its key enabler. In manufacturing, HRC has the potential to improve safety, efficiency, and productivity by allowing humans to focus on tasks that require creativity, judgment, and flexibility, while robots perform more repetitive and dangerous tasks. This paper explores the concept of HRC and its advancement within 21st century industry. It identifies the opportunities and challenges arising from the interactions between robots and humans in manufacturing applications, assembly, and inspection. It also highlights the significance of HRC in I4.0 and its potential in I5.0. In addition, the role of artificial intelligence, machine learning, large language models, information modelling (ontologies) and new emerging digital technologies (augmented reality, virtual reality, digital twins, cyber-physical system) in the development of HRC and I5.0 is documented and discussed adding new perspectives to the growing literature in this area. This investigation sheds light on the emerging paradigms that have come about as parts of I5.0 and the transformative role of human-robot interaction in shaping the future of manufacturing. This critical review provides a realistic picture of manufacturing automation and the benefits and weaknesses of current HRC systems. It presents a researched view on the concept, needs, enabling technologies and system frameworks of human-robot interaction in manufacturing, providing a practical vision and research agenda for future work in this area and its associated systems.
+AU  - Dhanda, Mandeep
+AU  - Rogers, Benedict Alexander
+AU  - Hall, Stephanie
+AU  - Dekoninck, Elies
+AU  - Dhokia, Vimal
+DO  - 10.1016/j.rcim.2024.102937
+PY  - 2025
+TI  - Reviewing human-robot collaboration in manufacturing: Opportunities and challenges in the context of industry 5.0
+T2  - Robotics and Computer-Integrated Manufacturing
+VL  - 93
+ER  -
+TY  - GEN
+AB  - Computer Numerical Control (CNC) systems have evolved into indispensable platforms for modern manufacturing, enabling high-precision, multi-axis machining with programmable automation. This review provides a comprehensive overview of recent advancements in CNC technology, focusing on core system components such as interpolators and servo controllers. We examine high-order interpolation and advanced smoothing algorithms that enhance toolpath generation and surface quality, as well as servo control strategies that improve tracking performance and dynamic response. Error compensation techniques for geometric, thermal, and dynamic deviations are reviewed in the context of both modeling and real-time implementation. Sustainable machining is addressed through energy modeling, process optimization, and component-level consumption analysis. Furthermore, the paper explores emerging digital transformation technologies—including digital twins, cloud-based control, and robot integration—that enhance system intelligence and interoperability. Special attention is given to the integration of artificial intelligence and machine learning, which enables adaptive path planning, real-time optimization, and predictive maintenance.
+AU  - Lim, Jong Min
+AU  - Song, Wontaek
+AU  - Lee, Joon Soo
+AU  - Park, Ji Myeong
+AU  - Shin, Hee Min
+AU  - Oh, In Wook
+AU  - Hwang, Soon Hong
+AU  - Jeong, Seungmin
+AU  - Kang, Sangwon
+AU  - Lee, Chan Young
+AU  - Min, Byung Kwon
+DO  - 10.1007/s12541-025-01334-2
+IS  - 9
+PY  - 2025
+TI  - Recent Advances in CNC Technology: Toward Autonomous and Sustainable Manufacturing
+T2  - International Journal of Precision Engineering and Manufacturing
+VL  - 26
+ER  -
+TY  - JOUR
+AB  - During the (re-)design of manufacturing systems, geometrical limitations on the available floor space may seriously impact the applicable resource configurations, including the selection of machines, robots, as well as auxiliary equipment. In current practice, such cases are managed by arduous manual iterations over the selection of resources and their geometrical arrangement. To overcome this inefficiency of existing approaches, the paper introduces a generic, integrated configuration-and-layout problem where the configuration sub-problem can encode arbitrary application-specific constraints on the selection of items (e.g., CNC machines and robots), while the layout sub-problem ensures geometrical feasibility, via a 2D rectangle packing representation. The generic model is demonstrated on an industrial application that involves the design of a flexible manufacturing system: items corresponding to CNC machines and robots must be selected, assigned to multiple manufacturing cells, and placed in the workshop blueprint to ensure that a given mix of products can be manufactured in the desired volume. For solving the generic configuration-and-layout problem, a logic-based Benders decomposition method is proposed. The efficiency of the approach is ensured by adding lifted cuts, symmetry breaking, and redundant constraints inspired by 2D bin packing lower bounds to the core Benders framework. Thorough computational evaluation is performed on a large set of problem instances, whereas practical applicability is verified in a real industrial case study.
+AU  - Dobrovoczki, Péter
+AU  - Kovács, András
+AU  - Sakata, Hiroyuki
+AU  - Tsutsumi, Daisuke
+DO  - 10.1016/j.jmsy.2024.09.020
+PY  - 2024
+TI  - Integrated system configuration and layout planning for flexible manufacturing systems
+T2  - Journal of Manufacturing Systems
+VL  - 77
+ER  -
+TY  - JOUR
+AB  - This article reviews the experiences of 63 case studies of small businesses (<250 employees) with manufacturing automation equipment acquired through a health/safety intervention grant program. The review scope included equipment technologies classified as industrial robots (n = 17), computer numerical control (CNC) machining (n = 29), or other programmable automation systems (n = 17). Descriptions of workers' compensation (WC) claim injuries and identified risk factors that motivated the acquisition of the equipment were extracted from grant applications. Other aspects of the employer experiences, including qualitative and quantitative assessment of effects on risk factors for musculoskeletal disorders (MSD), effects on productivity, and employee acceptance of the intervention were summarized from the case study reports. Case studies associated with a combination of large reduction in risk factors, lower cost per affected employee, and reported increases in productivity were CNC stone cutting system, CNC/vertical machining system, automated system for bottling, CNC/routing system for plastics products manufacturing, and a CNC/Cutting system for vinyl/carpet. Six case studies of industrial robots reported quantitative reductions in MSD risk factors in these diverse manufacturing industries: snack foods; photographic film, paper, plate, and chemical; machine shops; leather goods and allied products; plastic products; and iron and steel forging. This review of health/safety intervention case studies indicates that advanced (programmable) manufacturing automation, including industrial robots, reduced workplace musculoskeletal risk factors, and improved process productivity in most cases.
+AU  - Lowe, Brian D.
+AU  - Hayden, Marie
+AU  - Albers, James
+AU  - Naber, Steven
+DO  - 10.1002/hfm.20971
+IS  - 1
+PY  - 2023
+TI  - Case studies of robots and automation as health/safety interventions in small manufacturing enterprises
+T2  - Human Factors and Ergonomics In Manufacturing
+VL  - 33
+ER  -
+TY  - JOUR
+AB  - One of the key aspects of Industrial Revolution 5.0 is the reintegration of humans into the industrial environment. This process enhances the interaction between various robots and humans in industry. This solves the problem of limiting the replacement of human resources in collaborative work with humanoid robots in production processes. The need for humanoid robots is particularly relevant in environments that are unsafe and pose significant health risks to humans. People with disabilities will be able to work effectively in environments where humanoid and collaborative robots are used. The scientific article explores the concept of Industry 5.0, focusing on the methodology for implementing and integrating technologies within the framework of smart manufacturing.
+AU  - Kekshin, Vjatsheslav
+AU  - Ponomar, Sergei
+AU  - Sarkans, Martins
+AU  - Kuts, Vladimir
+AU  - Pavlov, Sergei
+DO  - 10.36897/jme/203790
+IS  - 2
+PY  - 2025
+TI  - COLLABORATION BETWEEN INDUSTRIAL, COLLABORATIVE, HUMANOID ROBOTS AND HUMANS
+T2  - Journal of Machine Engineering
+VL  - 25
+ER  -
