@@ -1,8 +1,5 @@
-# humanoid-robots-in-manufacturing
+# Humanoid Robots in Manufacturing
 Humanoid robot integration concept for an automated CNC manufacturing cell
-
-
-# Humanoid Robot Integration into a CNC Manufacturing Cell
 
 ## Project Overview
 
